@@ -20,7 +20,7 @@ the font.
 I'm going for accuracy here, but we also have to keep the Pebble Time's
 limitations in mind. So don't expect anything too amazing.
 
-<div style="display: block; margin-left: auto; margin-right: auto;">![Screenshot](http://i.imgur.com/ifa4aJo.png)</div>
+![Screenshot](http://i.imgur.com/ifa4aJo.png)
 
 ## Build
 
