@@ -1,0 +1,36 @@
+{
+  "uuid": "84077f48-c2a5-4c60-8990-0578a29948fa",
+  "shortName": "GNOME 3",
+  "longName": "GNOME 3",
+  "companyName": "Christopher K. Horton",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media":  [
+      {
+        "type": "bitmap",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/pebble_gnome_3.png"
+      },
+      {
+        "characterRegex": "[:0-9]",
+        "type": "font",
+        "name": "CANTARELL_BOLD_20",
+        "file": "fonts/Cantarell-Bold.ttf"
+      },
+      {
+        "characterRegex": "[ -~]",
+        "type": "font",
+        "name": "CANTARELL_BOLD_10",
+        "file": "fonts/Cantarell-Bold.ttf"
+      }
+    ]
+  }
+}
